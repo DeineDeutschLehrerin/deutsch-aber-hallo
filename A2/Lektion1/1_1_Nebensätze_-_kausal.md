@@ -100,4 +100,4 @@ g) Inge lernt den ganzen Tag. Sie schreibt bald eine wichtige Prüfung.
 
 Inge lernt den ganzen Tag, weil sie bald eine wichtige Prüfung schreibt.
 
-Weil Inge bald eine wichtige Prüfung schreibt, lernt sie den ganzen Tag.
+Weil Inge bald eine wichtige Prüfung schreibt, lernt sie den ganzen Tag.<br/><br/>

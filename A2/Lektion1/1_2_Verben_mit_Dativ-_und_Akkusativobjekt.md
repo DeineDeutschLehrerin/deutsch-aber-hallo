@@ -49,7 +49,7 @@ Der Kellner empfiehlt mir das Steak.<br/><br/>
 
 l) stehlen - Dieb (b) - Touristin (u) - Kamera (b)
 
-Der Dieb stiehlt einer Touristin die Kamera.<br/><br/>
+Der Dieb stiehlt einer Touristin die Kamera.<br/><br/><br/>
 
 
 ## Übung 2
@@ -76,7 +76,7 @@ Du bringst mir einen Orangensaft.<br/><br/>
 
 f) Lena erklärt d____ d____ Problem.
 
-Lena erklärt dir das Problem.<br/><br/>
+Lena erklärt dir das Problem.<br/><br/><br/>
 
 
 ## Übung 3

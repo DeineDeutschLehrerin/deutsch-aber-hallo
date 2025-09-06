@@ -1,5 +1,6 @@
 # 1.3. Präteritum (Imperfekt) - Modalverben<hr/>
 
+
 ## Übung 1. Bilden Sie einen Satz mit Modalverb im Präteritum.
 
 a) müssen - eine Fahrkarte - kaufen
@@ -24,7 +25,7 @@ Ich konnte seinen Freund besuchen.<br/><br/>
 
 f) sollen - ein Paket - mitnehmen
 
-Ich sollte ein Paket mitnehmen.<br/><br/>
+Ich sollte ein Paket mitnehmen.<br/><br/><br/>
 
 
 ## Übung 2. Bilden Sie einen Satz mit Modalverb im Präteritum.
@@ -91,7 +92,7 @@ Ihr musstet die U-Bahn nehmen.<br/><br/>
 
 p) Ich will die Nachrichten sehen.
 
-Ich wollte die Nachrichten sehen.<br/><br/>
+Ich wollte die Nachrichten sehen.<br/><br/><br/>
 
 
 ## Übung 3. Bilden Sie einen Satz mit Modalverb im Präteritum und mit Dativ- und Akkusativobjekt.
