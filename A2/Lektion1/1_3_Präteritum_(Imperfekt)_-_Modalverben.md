@@ -92,3 +92,46 @@ Ihr musstet die U-Bahn nehmen.<br/><br/>
 p) Ich will die Nachrichten sehen.
 
 Ich wollte die Nachrichten sehen.<br/><br/>
+
+
+## Übung 3. Bilden Sie einen Satz mit Modalverb im Präteritum und mit Dativ- und Akkusativobjekt.
+
+a) schenken - wollen - mein Bruder - ein Buch
+
+Ich wollte meinem Bruder ein Buch schenken.<br/><br/>
+
+b) schreiben - sollen - mein Onkel - eine Karte
+
+Ich sollte meinem Onkel eine Karte schreiben.<br/><br/>
+
+c) zeigen - können - meine Freunde - die Stadt
+
+Ich konnte meinen Freunden die Stadt zeigen.<br/><br/>
+
+d) erklären - müssen - meine Kollegin - das Problem
+
+Ich musste meiner Kollegin das Problem erklären.<br/><br/>
+
+e) geben - sollen - meine Schwester - der Schlüssel
+
+Ich sollte meiner Schwester den Schlüssel geben.<br/><br/>
+
+f) erzählen - dürfen - mein Freund - nichts
+
+Ich durfte meinem Freund nichts erzählen.<br/><br/>
+
+g) zurückgeben - wollen - meine Kollegin - das Buch
+
+Ich wollte meiner Kollegin das Buch zurückgeben.<br/><br/>
+
+h) anbieten - sollen - meine Tante - meine Hilfe
+
+Ich sollte meiner Tante meine Hilfe anbieten.<br/><br/>
+
+i) vorlesen - können - meine Kollegen - der Text
+
+Ich konnte meinen Kollegen den Text vorlesen.<br/><br/>
+
+j) empfehlen - können - mein Freund - das Restaurant
+
+Ich konnte meinem Freund das Restaurant empfehlen.<br/><br/>
