@@ -46,3 +46,46 @@ i) Lösung - Problem - schwierig
 
 Die Lösung des Problems ist schwierig.<br/><br/>
 
+
+## Übung 2
+
+Beispiel: Titel - Buch
+
+Kennst du den Titel des Buches?
+
+a) Direktorin - Bank
+
+Kennen Sie die Direktorin der Bank?<br/><br/>
+
+b) Autor - Roman
+
+Kennt ihr den Autor des Romans?<br/><br/>
+
+c) Text - Lied
+
+Kennst du den Text des Liedes?<br/><br/>
+
+d) Frau - Minister
+
+Kennen sie die Frau des Ministers?<br/><br/>
+
+e) Zentrum - Stadt
+
+Kennt ihr das Zentrum der Stadt?<br/><br/>
+
+f) Vater - Studentin
+
+Kennt er den Vater der Studentin?<br/><br/>
+
+g) Hauptstadt - Land
+
+Kennst du die Haptstadt des Landes?<br/><br/>
+
+h) Thema - Vorlesung
+
+Kennen Sie das Thema der Vorlesung?<br/><br/>
+
+i) Sohn - Nachbarin
+
+Kennt sie den Sohn der Nachbarin?<br/><br/>
+
