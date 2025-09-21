@@ -2,6 +2,15 @@
 
 ## Übung 1
 
+Beispiel: 
+
+**gehen**
+
+Du geh___ ins Kino.
+
+Du geh**st** ins Kino.<br/><br/>
+
+
 ### kommen
 
 a) Maria komm___ aus Rom.
