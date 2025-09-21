@@ -124,7 +124,7 @@ Theo **hört** Eva.<br/><br/>
 
 h) Du ____________ Deutsch.
 
-DU **lernst** Deutsch.<br/><br/>
+Du **lernst** Deutsch.<br/><br/>
 
 i) Eva ____________ ein Eis.
 
@@ -133,4 +133,51 @@ Eva **kauft** ein Eis.<br/><br/>
 j) Wir ____________ Saft.
 
 Wir **trinken** Saft.<br/><br/><br/>
+
+
+## Übung 3
+
+Beispiel:
+
+kaufen:
+
+Lena kauf__ Cola. Und du? - Ich kauf__ Saft. 
+
+Lena kauf**t** Cola. Und du? - Ich kauf**e** Saft.<br/><br/>
+
+a) kommen: 
+
+Hatem komm__ aus Kairo. Und du? - Ich komm__  ______  ______________.
+
+Hatem komm**t** aus Kairo. Und du? - Ich komm**e aus Berlin**.<br/><br/>
+
+b) trinken:
+
+Ich trink__  Kaffee. Und du? - Ich trink__ Wasser.
+
+Ich trink**e** Kaffee. Und du? - Ich trink**e** Wasser.<br/><br/>
+
+c) wohnen:
+
+Maria wohn__  in Rom. Und du? - Ich wohn__  in _________________.
+
+Maria wohn**t** in Rom. Und du? - Ich wohn**e in Zürich**.<br/><br/>
+
+d) fragen:
+
+Wir frag__ Frau Lehmann. Und du? - Ich frag__ Theo.
+
+Wir frag**en** Frau Lehmann. Und du? - Ich frag**e** Theo.<br/><br/>
+
+e) studieren:
+
+Paul studier__ in München. Und du? - Ich studier__ auch in München.
+
+Paul studier**t** in München. Und du? - Ich studier**e** auch in München.<br/><br/>
+
+f) gehen:
+
+Ich geh__ nach Hause. Und du? - Ich geh__ auch nach Hause.
+
+Ich geh**e** nach Hause. Und du? - Ich geh**e** auch nach Hause.<br/><br/><br/>
 
