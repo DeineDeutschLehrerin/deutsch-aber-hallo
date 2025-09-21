@@ -51,7 +51,7 @@ Die Lösung des Problems ist schwierig.<br/><br/>
 
 Beispiel: Titel - Buch
 
-Kennst du den Titel des Buches?
+Kennst du den Titel des Buches?<br/><br/>
 
 a) Direktorin - Bank
 
