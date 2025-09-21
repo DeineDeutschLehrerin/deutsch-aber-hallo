@@ -84,3 +84,53 @@ p) Robert trink___ Mineralwasser.
 Robert trink**t** Mineralwasser.<br/><br/><br/>
 
 
+## Übung 2. wohnst - gehen - kommt - hört - studiert - kauft - trinken - mache - kennt - lernst - lebt
+
+
+Beispiel:
+
+Max ____________ aus Köln.
+
+Max **kommt** aus Köln.<br/><br/>
+
+
+a) Murat ____________ Musik.
+
+Murat **hört** Musik.<br/><br/>
+
+b) Du ____________ in Passau.
+
+Du **wohnst** in Passau.<br/><br/>
+
+c) Hanna ____________ in Wien.
+
+Hanna **lebt** in Wien. | Hanna **studiert** in Wien.<br/><br/>
+
+d) Ich ____________ eine Pause.
+
+Ich **mache** eine Pause.<br/><br/>
+
+e) Ihr ____________ in Berlin.
+
+Ihr **studiert** in Berlin. | Ihr **lebt** in Berlin.<br/><br/>
+
+f) Wir ____________ nach Hause.
+
+Wir **gehen** nach Hause.<br/><br/>
+
+g) Theo ____________ Eva.
+
+Theo **hört** Eva.<br/><br/>
+
+h) Du ____________ Deutsch.
+
+DU **lernst** Deutsch.<br/><br/>
+
+i) Eva ____________ ein Eis.
+
+Eva **kauft** ein Eis.<br/><br/>
+
+j) Wir ____________ Saft.
+
+Wir **trinken** Saft.<br/><br/><br/>
+
