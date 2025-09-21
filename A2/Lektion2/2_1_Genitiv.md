@@ -89,3 +89,54 @@ i) Sohn - Nachbarin
 
 Kennt sie den Sohn der Nachbarin?<br/><br/>
 
+
+## Genitiv - Fragewort
+
+
+## Übung 3
+
+Beispiele:
+
+- Hut - mein Bruder
+
+Wessen Hut ist das? - Das ist der Hut meines Bruders.
+
+- Schuhe - ihre Schwester
+
+Wessen Schuhe sind das? - Das sind die Schuhe ihrer Schwester.<br/><br/>
+
+a) Wagen - sein Vater
+
+Wessen Wagen ist das? - Das ist der Wagen seines Vaters.<br/><br/>
+
+b) Brille - unsere Tante
+
+Wessen Brille ist das? - Das ist die Brille unserer Tante.<br/><br/>
+
+c) Hund - ihr Großvater
+
+Wessen Hund ist das? - Das ist der Hund ihres Großvaters.<br/><br/>
+
+d) Gepäck - eure Gäste
+
+Wessen Gepäck ist das? - Das ist das Gepäck eurer Gäste.<br/><br/>
+
+e) Stifte - ihre Tochter
+
+Wessen Stifte sind das? - Das sind die Stifte ihrer Tochter.<br/><br/>
+
+f) Computer - mein Freund
+
+Wessen Computer ist das? - Das ist der Computer meines Freundes.<br/><br/>
+
+g) Schirm - dein Onkel
+
+Wessen Schirm ist das? - Das ist der Schirm deines Onkels.<br/><br/>
+
+h) Auto - meine Kollegin
+
+Wessen Auto ist das? - Das ist das Auto meiner Kollegin.<br/><br/>
+
+i) Bücher - sein Sohn
+
+Wessen Bücher sind das? - Das sind die Bücher seines Sohnes.<br/><br/>
