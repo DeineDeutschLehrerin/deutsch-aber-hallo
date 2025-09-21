@@ -44,7 +44,7 @@ Die Preise **des Bio-Marktes** sind hoch.<br/><br/>
 
 i) Lösung - Problem - schwierig
 
-Die Lösung **des Problems** ist schwierig.<br/><br/>
+Die Lösung **des Problems** ist schwierig.<br/><br/><br/>
 
 
 ## Übung 2
@@ -87,7 +87,7 @@ Kennen Sie das Thema **der Vorlesung**?<br/><br/>
 
 i) Sohn - Nachbarin
 
-Kennt sie den Sohn **der Nachbarin**?<br/><br/>
+Kennt sie den Sohn **der Nachbarin**?<br/><br/><br/>
 
 
 ## Genitiv - Fragewort
