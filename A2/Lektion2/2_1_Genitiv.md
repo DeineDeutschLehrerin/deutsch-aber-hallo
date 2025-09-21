@@ -1,7 +1,14 @@
 # 2.1. Genitiv<hr/>
 
 
+## Genitiv - Artikel
+
+
 ## Übung 1. Bilden Sie einen Satz mit Genitiv.
+
+Beispiel: Jacke - Mann - schwarz
+
+Die Jacke des Mannes ist schwarz.<br/><br/>
 
 a) Wasser - Fluss - schmutzig
 
